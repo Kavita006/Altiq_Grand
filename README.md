@@ -1,4 +1,4 @@
-# Atliq_Grand SQL project    
+# Atliq_Grand Database SQL project    
 
 Atliq Grands owns multiple five-star hotels across India. 
 
