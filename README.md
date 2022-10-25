@@ -1,4 +1,7 @@
-# Atliq_Grand SQL project
+# Atliq_Grand SQL project    
+
+Atliq Grands owns multiple five-star hotels across India. 
+
 Approach:-
 1. Understanding the datasets.           
 2. Creating Business questions.                         
